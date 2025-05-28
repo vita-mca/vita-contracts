@@ -1,10 +1,10 @@
-## VITA: Decentralized Healthcare Infrastructure
+## MEDCHAIN: Decentralized Healthcare Infrastructure
 ### Technical Overview
-VITA is a decentralized healthcare infrastructure platform built on the Stellar blockchain ecosystem, providing standards-compliant protocols, APIs, and smart contracts for healthcare application development.
+Medchain is a decentralized healthcare infrastructure platform built on the Stellar blockchain ecosystem, providing standards-compliant protocols, APIs, and smart contracts for healthcare application development.
 Our ecosystem provides core protocols, SDKs, APIs, and smart contracts that healthcare and blockchain developers can build upon to revolutionize global healthcare.
 
 ## Core Technical Architecture
-VITA leverages Stellar's high-performance consensus mechanism and native asset capabilities to create a comprehensive healthcare infrastructure layer with the following components:
+Medchain leverages Stellar's high-performance consensus mechanism and native asset capabilities to create a comprehensive healthcare infrastructure layer with the following components:
 
 - Stellar-based Identity Framework: Decentralized identifiers for patients, providers, and healthcare institutions
 - IPFS-integrated Medical Records: Immutable, encrypted storage with on-chain verification
